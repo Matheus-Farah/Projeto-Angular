@@ -1,0 +1,19 @@
+div {
+  padding-top: 30px;
+  color: rgb(74, 104, 66);
+  text-align: center;
+}
+
+input {
+  background-color: aqua;
+  font-weight: bold;
+  border-radius: 10px 0 10px 0;
+  margin-left: 3px;
+}
+
+input:hover {
+  background-color: yellow;
+  font-weight: bold;
+  border-radius: 0 10px 0 10px;
+  cursor: pointer;
+}

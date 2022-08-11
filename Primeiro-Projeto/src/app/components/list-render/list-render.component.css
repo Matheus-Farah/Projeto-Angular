@@ -1,7 +1,18 @@
+div{
+    padding-top: 30px;
+    color: rgb(11, 114, 100);
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
+
 button{
     background-color: aqua;
     font-weight: bold;  
     border-radius: 10px 0 10px 0;
+    margin-left: 3px;
 }
 
 button:hover{
